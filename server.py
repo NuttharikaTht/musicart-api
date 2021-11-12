@@ -32,7 +32,8 @@ config = {
     "messagingSenderId": "612465272524",
     "appId": "1:612465272524:web:1e225655e7adc30e6f4469",
     "measurementId": "G-S135ZNCKJ8",
-    "databaseURL":""
+    "databaseURL":"",
+    "serviceAccount": "service-612465272524@gcp-sa-firebasestorage.iam.gserviceaccount.com"
     }
 
 def _load_model():
