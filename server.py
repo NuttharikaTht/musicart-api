@@ -32,8 +32,7 @@ config = {
     "messagingSenderId": "612465272524",
     "appId": "1:612465272524:web:1e225655e7adc30e6f4469",
     "measurementId": "G-S135ZNCKJ8",
-    "databaseURL":"",
-    "serviceAccount": "******.json"
+    "databaseURL":""
     }
 
 def _load_model():
@@ -63,7 +62,7 @@ def create_melspectrogram(wav_file):
 
 @app.route("/")
 def home():
-    return "Hello World"
+    return "Musicart API"
 
 @app.route("/predict", methods=["POST"])
 def predict():
