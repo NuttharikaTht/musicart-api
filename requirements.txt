@@ -8,4 +8,4 @@ numpy
 pydub
 pyrebase
 gunicorn
-tensorflow
+tensorflow-cpu
