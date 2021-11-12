@@ -1,7 +1,6 @@
 matplotlib
 flask
 librosa
-ffmpeg
 soundfile
 keras
 numpy
