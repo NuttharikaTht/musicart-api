@@ -9,3 +9,4 @@ pyrebase
 gunicorn
 PyJWT
 PyCryptodome
+tensorflow-cpu
