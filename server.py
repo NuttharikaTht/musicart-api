@@ -33,7 +33,7 @@ config = {
     "appId": "1:612465272524:web:1e225655e7adc30e6f4469",
     "measurementId": "G-S135ZNCKJ8",
     "databaseURL":"",
-    "serviceAccount": "serviceAccount.json"
+    "serviceAccount": "musicart-606cb-firebase-adminsdk-cybma-2e8ef59b6f.json"
 }
 
 def _load_model():
